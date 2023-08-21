@@ -15,7 +15,7 @@ The main reason for this repository is to help with reporting issues and get sup
 
 Bootstrap already supports "Dark Mode" which can be activated, however, any changes and custom components I create is not fully tested for use in "Dark Mode" and may not support it either.
 
-I'm sorry but I won't be planning any testing or support for dark mode. It's not that I hate it but simply that dark mode causes eye strain and it's difficult for me to work with. It only takes up to 3 seconds and I get an instant migraine, blurred vision and feeling sick.
+I'm sorry but I won't be planning any testing or support for dark mode. It's not that I hate it but simply that dark mode causes eye strain and it's difficult for me to work with. It only takes up to 3 seconds and I get an instant migraine, blurred vision and feeling sick. Despite all the myths, dark mode does not actually save energy, screens with backlights actually save more energy if you turn the brightness down instead, having black pixels does nothing unless you're using an OLED. Also, high contrast is proven to cause more eye strain and health issues than black text on white.
 
 Light mode has never been an issue and even in the dark, light mode does not burn my eyes as others claim happens to them (maybe they have their brightness set at 100% or at least above 40%). I've already seen a doctor and optician and they say it's simply the shape of the eye, how light enters and how the brain processes that light; There's nothing I can do about it except wear darkened glasses that darkens white text on black. Kind of pointless, really.
 
